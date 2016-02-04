@@ -1,0 +1,21 @@
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+
+body {
+	font-family: 'Kreon', serif;
+}
+
+.social-icon {
+	text-decoration: none; 
+	color: black;
+	font-size: 2em;
+	margin-right: 0.5em;
+}
+
+.padding-top-logo {
+	padding-top: 1.5em;
+}
